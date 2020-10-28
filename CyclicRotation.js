@@ -2,6 +2,8 @@
     [3, 8, 9, 7, 6] -> [6, 3, 8, 9, 7]
     [6, 3, 8, 9, 7] -> [7, 6, 3, 8, 9]
     [7, 6, 3, 8, 9] -> [9, 7, 6, 3, 8]
+    
+    Missing to include NULL case and A.length=1
 */
 
 function solution(A, K) {
